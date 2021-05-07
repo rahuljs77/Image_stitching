@@ -1,1 +1,1 @@
-# Image_stitching
+# Real Time image stitching
